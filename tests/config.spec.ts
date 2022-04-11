@@ -1,4 +1,4 @@
-import { plugin } from '../src/plugin';
+import { plugin } from '../src/index';
 import { buildSchema } from 'graphql';
 
 describe('Testing Config values=>Flutter Freezed Classes Plugin', () => {
