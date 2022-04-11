@@ -1,6 +1,6 @@
 {
   "name": "graphql-codegen-flutter-freezed-classes-plugin",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "description": "GraphQL Code Generator plugin which is used by the flutter-freezed-classes CLI. Install the CLI instead",
   "author": {
     "email": "parables95@gmail.com",
